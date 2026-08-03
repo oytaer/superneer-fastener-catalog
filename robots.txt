@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /.all-urls.txt
+Disallow: /.page-list.txt
+
+Sitemap: https://oytaer.github.io/superneer-fastener-catalog/sitemap.xml

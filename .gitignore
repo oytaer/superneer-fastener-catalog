@@ -1,0 +1,6 @@
+# Generator scripts (not needed in the published site)
+generate-*.ps1
+
+# Temp files
+*.tmp
+*.log
