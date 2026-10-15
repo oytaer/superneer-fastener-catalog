@@ -1,0 +1,49 @@
+# Superneer GEO / AI Crawler Recommendations
+# Place at https://www.superneer.com/robots.txt (or merge with existing rules)
+
+User-agent: *
+Allow: /
+
+# AI Search / Retrieval Bots (recommended Allow for citations)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Optional: Training bots (decide based on content policy)
+# User-agent: GPTBot
+# Allow: /
+
+# User-agent: ClaudeBot
+# Allow: /
+
+# User-agent: CCBot
+# Disallow: /
+
+# User-agent: Bytespider
+# Disallow: /
+
+Sitemap: https://www.superneer.com/sitemap.xml
+
+# GEO Index files
+# https://www.superneer.com/llms.txt
+# https://www.superneer.com/llms-full.txt

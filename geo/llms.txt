@@ -1,0 +1,45 @@
+# Superneer Limited - China Screw Manufacturer
+> Custom Machine Screws, Stainless Steel Fasteners, SEMS Screws, Set Screws, Standoffs & Thread Forming Screws from Shenzhen, China (Est. 2015)
+
+Superneer Limited is a professional China screw manufacturer specializing in custom and standard machine screws, inch screws, self-tapping screws, thread forming screws, SEMS screws, set screws, spacers/standoffs, and related fasteners. We supply high-quality SUS304 stainless steel, carbon steel (blue zinc / black zinc), brass, and specialty materials with precise drawings, fast delivery, and competitive pricing to customers worldwide.
+
+## Core Categories
+
+- [Machine Screws](https://www.superneer.com/home/screws/machinescrews/52): Full range of pan, flat, truss, button, oval, hex washer, and socket head machine screws
+- [Pan Head Screw](https://www.superneer.com/home/screws/machine/61): Phillips, Torx, Pozi, slotted pan head machine screws (metric & inch)
+- [Flat Head Machine Screw](https://www.superneer.com/home/screws/machine/63): Countersunk flat head (82°/90°/100°/120°) screws
+- [Hex Washer Head Machine Screw](https://www.superneer.com/home/screws/machine/65): Serrated and non-serrated hex washer head screws
+- [Button Head Screw](https://www.superneer.com/home/screws/machine/66): Button / dome head socket and Phillips screws
+- [Truss Head Screw](https://www.superneer.com/home/screws/machine/67): Low-profile truss head machine and self-tapping screws
+- [Set Screws](https://www.superneer.com/home/screws/setscrews/58): Flat point, cone point, cup point, dog point set screws (socket & slotted)
+- [SEMS Screws](https://www.superneer.com/home/screws/semsscrews/56): Pre-assembled screws with flat, spring, double, or internal tooth washers
+- [Thread Forming Screws](https://www.superneer.com/home/screws/threadformingscrews/54): Thread rolling / trilobular screws for metal and plastic
+- [Self Tapping Screws](https://www.superneer.com/home/screws/selftappingscrews/57): Complete range of self-tapping screws in multiple head styles and drives
+- [Spacer Standoff](https://www.superneer.com/home/screws/standoff/59): Hex, round, male-female, female-female spacers and standoffs
+- [Self Sealing Screws](https://www.superneer.com/home/screws/selfsealingscrews/55): Self-sealing screws with O-ring or sealing features
+- [Socket Head Cap Screw](https://www.superneer.com/home/screws/machine/3509): Precision socket head and knurled socket head screws
+- [Thumb Screws](https://www.superneer.com/home/screwslist/thumb/3362): Knurled and slotted thumb screws
+- [Nut](https://www.superneer.com/home/screws/nut/3341): Aluminum and steel nuts
+
+## Priority List Pages (High-Value Product Collections)
+
+See geo/llms-full.txt for the complete list of 109 numerical list pages.
+
+## Key Product Highlights
+
+- Stainless steel (SUS304 / 18-8) and carbon steel (blue zinc, black zinc) finishes
+- Metric (M1.6–M6+) and Imperial (#0-80 to 10-32) sizes
+- Standards: DIN, ISO, ANSI, JIS, ASME (DIN 7985, DIN 913, DIN 916, ISO 14583, etc.)
+- Custom manufacturing according to customer drawings
+- Fast delivery, free replacement for defective products
+
+## Contact & Company
+
+- Website: https://www.superneer.com/
+- Location: Shenzhen, China
+- Established: 2015
+- Email: sales@superneer.com (for inquiries)
+
+## Optional
+
+- [Full product catalog index](https://www.superneer.com/llms-full.txt): Complete list of list pages and major product families
